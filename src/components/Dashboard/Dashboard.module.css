@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.wrapper {
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+}
